@@ -6811,6 +6811,18 @@
             "user_name": "Roman Prykhodchenko",
             "emails": ["rprikhodchenko@mirantis.com", "me@romcheg.me"]
         },
+       {
+           "launchpad_id": "pshige",
+           "gerrit_id": "pshige",
+           "companies": [
+               {
+                   "company_name": "NTT",
+                   "end_date": null
+               }
+           ],
+           "user_name": "Mitsuhiro SHIGEMATSU",
+           "emails": ["shigematsu.mitsuhiro@lab.ntt.co.jp", "pshige@pshige.org"]
+        }
         {
             "launchpad_id": "psiwczak",
             "companies": [
